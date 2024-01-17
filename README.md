@@ -9,3 +9,5 @@ estas querys foram desenvolvidas usando o postgresql.  🐘
 As tabelas foram modeladas utilizando a ferramenta datamodeler. 🔗
 
 ![cover](/tabelas.png)
+
+
